@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 const CLIENT_ID = "1a5dd2d334174c10b63e128f0af2a880";
-const REDIRECT_URI = "http://localhost:5173"; // Uygun URL'yi ayarla
+const REDIRECT_URI = "https://stardew-planner-1kgj.vercel.app/"; // Uygun URL'yi ayarla
 const SCOPES = [
   "user-read-playback-state",
   "user-modify-playback-state",
