@@ -3,7 +3,7 @@ import DraggableComponent from "./DraggableComponent";
 import Clock from "./Clock";
 import Timer from "./Timer";
 import Pomodoro from "./Pomodoro";
-import ToDoList from "./TodoList";
+import ToDoList from "./ToDoList";
 import WeeklyToDoList from "./WeeklyToDoList";
 import SpotifyWidget from "./SpotifyWidget";
 import logo from "../assets/Logo_son.png";
